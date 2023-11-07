@@ -1,0 +1,42 @@
+[
+    {
+      "Name": "s.no",
+      "Type": "bigint",
+      "Comment": ""
+    },
+    {
+      "Name": "firstname",
+      "Type": "string",
+      "Comment": ""
+    },
+    {
+      "Name": "lastname",
+      "Type": "string",
+      "Comment": ""
+    },
+    {
+      "Name": "gender",
+      "Type": "string",
+      "Comment": ""
+    },
+    {
+      "Name": "country",
+      "Type": "string",
+      "Comment": ""
+    },
+    {
+      "Name": "state",
+      "Type": "string",
+      "Comment": ""
+    },
+    {
+      "Name": "username",
+      "Type": "string",
+      "Comment": ""
+    },
+    {
+      "Name": "email",
+      "Type": "string",
+      "Comment": ""
+    }
+  ]
